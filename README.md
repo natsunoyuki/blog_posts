@@ -40,7 +40,7 @@ The original blog is kept active, and will no longer be updated.
 #### Quantum Physics
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/1D%20Time%20Independent%20Schrödinger%20Equation.ipynb" target="_blank">Schrödinger's Python 1 (1D Time Independent Schrödinger Equation)</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/2D%20Time%20Independent%20Schrödinger%20Equation.ipynb" target="_blank">Schrödinger's Python 2 (2D Time Independent Schrödinger Equation)</a>
-* <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/Schrödinger's%20Python%203.ipynb" target="_blank">Schrödinger's Python 3 (3D Time Independent Schrödinger Equation)</a>
+* <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/3D%20Time%20Independent%20Schrödinger%20Equation.ipynb" target="_blank">Schrödinger's Python 3 (3D Time Independent Schrödinger Equation)</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/Transfer%20Matrices%20in%20Python.ipynb" target="_blank">Transfer Matrices</a>
 #### Statistical Mechanics
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/Parallel%20Process%20Monte%20Carlo%20Simulations%20with%20Python.ipynb" target="_blank">Parallel Process Monte Carlo Simulations</a>
