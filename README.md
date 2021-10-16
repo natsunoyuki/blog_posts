@@ -38,8 +38,8 @@ The original blog is kept active, and will no longer be updated.
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/Power%20Series%20Expansion%20Method%20to%20Estimate%20Nonlinear%20ODE%20Parameters.ipynb" target="_blank">Power Series Expansion Method to Estimate Nonlinear ODE Parameters</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/Delay%20Differential%20Equations%20with%20Python.ipynb" target="_blank">Delay Differential Equations</a>
 #### Quantum Physics
-* <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/Schrödinger's%20Python.ipynb" target="_blank">Schrödinger's Python 1 (1D Time Independent Schrödinger Equation)</a>
-* <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/Schrödinger's%20Python%202.ipynb" target="_blank">Schrödinger's Python 2 (2D Time Independent Schrödinger Equation)</a>
+* <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/1D%20Time%20Independent%20Schrödinger%20Equation.ipynb" target="_blank">Schrödinger's Python 1 (1D Time Independent Schrödinger Equation)</a>
+* <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/2D%20Time%20Independent%20Schrödinger%20Equation.ipynb" target="_blank">Schrödinger's Python 2 (2D Time Independent Schrödinger Equation)</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/Schrödinger's%20Python%203.ipynb" target="_blank">Schrödinger's Python 3 (3D Time Independent Schrödinger Equation)</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/Transfer%20Matrices%20in%20Python.ipynb" target="_blank">Transfer Matrices</a>
 #### Statistical Mechanics
