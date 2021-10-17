@@ -19,6 +19,7 @@ The original blog is kept active, and will no longer be updated.
 
 ### <a href="https://github.com/natsunoyuki/blog_posts/tree/main/mathematics" target="_blank">Mathematics</a>
 #### Fractals
+* <a href="https://github.com/natsunoyuki/blog_posts/blob/main/mathematics/The%20Julia%20Set.ipynb" target="_blank">The Julia Set</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/mathematics/The%20Mandelbrot%20Set%20in%20Python.ipynb" target="_blank">The Mandelbrot Set</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/mathematics/Sierpinski's%20Triangle.ipynb" target="_blank">Sierpinski's Triangle</a>
 #### Mathematics
