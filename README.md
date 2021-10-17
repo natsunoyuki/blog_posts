@@ -15,6 +15,8 @@ The original blog is kept active, and will no longer be updated.
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/Gaussian%20Process%20Regression%20in%20Python.ipynb" target="_blank">Gaussian Process Regression</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/Hidden%20Markov%20Models%20with%20Python.ipynb" target="_blank">Hidden Markov Models</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/L1%20Norm%20Linear%20Inversion_Regression.ipynb" target="_blank">L1 Norm Linear Regression</a>
+#### Case Studies
+* <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/Singapore_resale_flat_prices.ipynb" target="_blank">An Analysis of Singapore Resale Flat Prices</a>
 
 ***
 
