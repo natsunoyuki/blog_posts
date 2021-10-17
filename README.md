@@ -17,6 +17,7 @@ The original blog is kept active, and will no longer be updated.
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/L1%20Norm%20Linear%20Inversion_Regression.ipynb" target="_blank">L1 Norm Linear Regression</a>
 #### Case Studies
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/Singapore_resale_flat_prices.ipynb" target="_blank">An Analysis of Singapore Resale Flat Prices</a>
+* <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/higgs_boson.ipynb" target="_blank">Detecting the Higgs Boson with Machine Learning</a>
 
 ***
 
