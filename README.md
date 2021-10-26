@@ -38,6 +38,7 @@ The original blog is kept active, and will no longer be updated.
 #### Electromagnetism
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/1D%20Electromagnetic%20FDTD%20in%20Python.ipynb" target="_blank">1D Electromagnetic FDTD</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/1D%20Laser%20Simulation%20in%20Python.ipynb" target="_blank">1D Laser FDTD Simulation</a>
+* <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/2D%20Electromagnetic%20FDTD%20in%20Python.ipynb" target="_blank">2D Electromagnetic FDTD</a>
 #### Kinematics & Dynamical Systems
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/Numerical%20Integration%20of%20ODEs.ipynb" target="_blank">Numerical Integration of ODEs</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/physics/Power%20Series%20Expansion%20Method%20to%20Estimate%20Nonlinear%20ODE%20Parameters.ipynb" target="_blank">Power Series Expansion Method to Estimate Nonlinear ODE Parameters</a>
