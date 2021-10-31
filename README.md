@@ -10,7 +10,7 @@ The original blog is kept active, and will no longer be updated.
 #### Data & Analytics
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/The%20Central%20Limit%20Theorem.ipynb" target="_blank">The Central Limit Theorem</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/Yahoo%20Finance%20Stock%20Data%20with%20Python.ipynb" target="_blank">Yahoo Finance Stock Data</a>
-#### Machine Learning
+#### Machine Learning & Statistical Methods
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/Bayesian%20Optimization%20of%20Model%20Hyperparameters.ipynb" target="_blank">Bayesian Optimization of Model Hyperparameters</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/Gaussian%20Process%20Regression%20in%20Python.ipynb" target="_blank">Gaussian Process Regression</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/Hidden%20Markov%20Models%20with%20Python.ipynb" target="_blank">Hidden Markov Models</a>
