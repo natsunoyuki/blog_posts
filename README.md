@@ -9,6 +9,7 @@ The original blog is kept active, and will no longer be updated.
 ### <a href="https://github.com/natsunoyuki/blog_posts/tree/main/data_science" target="_blank">Data Science</a>
 #### Data & Analytics
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/The%20Central%20Limit%20Theorem.ipynb" target="_blank">The Central Limit Theorem</a>
+* <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/Geocoding%20Addresses.ipynb" target="_blank">Geocoding Addresses in Python</a>
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/Yahoo%20Finance%20Stock%20Data%20with%20Python.ipynb" target="_blank">Yahoo Finance Stock Data</a>
 #### Machine Learning & Statistical Methods
 * <a href="https://github.com/natsunoyuki/blog_posts/blob/main/data_science/Bayesian%20Optimization%20of%20Model%20Hyperparameters.ipynb" target="_blank">Bayesian Optimization of Model Hyperparameters</a>
