@@ -1,6 +1,7 @@
 # My Blog Posts
 
 This repository contains the updated Jupyter notebook versions of my original blog posts at https://dantoudai.wordpress.com
+Some of my posts have also been published on Medium: https://medium.com/@natsunoyuki
 
 This repository is a direct result of the various difficulties I encountered writing Python code and mathematical equations on Wordpress.
 The original blog is kept active, and will no longer be updated.
